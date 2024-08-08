@@ -1,6 +1,7 @@
 Hi there, I’m @BeatrizFassina !
 
 I’m currently learning JavaScript and Python
+
 I’m interested in JavaScript and Python
 
 <!---
